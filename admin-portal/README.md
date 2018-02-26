@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.2.
 
-# install dependencies
+# Install dependencies
 Run `npm install` , this will install node module dependencies.
 
 ## Development server
